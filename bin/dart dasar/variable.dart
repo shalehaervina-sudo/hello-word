@@ -1,9 +1,5 @@
-void main(){
-  string name;
-  name = 'Ervina Shaleha';
+void main() {
+  String name = 'Ervina Shaleha';
 
-  print(name);
-  print(name);
-  print(name);
   print(name);
 }
